@@ -6,7 +6,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 # ─────────────────────────────────────────
 # Configura tu token aquí
 # ─────────────────────────────────────────
-TOKEN = "8640868141:AAGS1OgvoMl_VJydMG1pt55Ig03VYsQ5RKo"  # Reemplaza con el token de BotFather
+TOKEN = "TOKEN"  # Reemplaza con el token de BotFather
 
 # ─────────────────────────────────────────
 # Datos del proyecto  ← edita a tu gusto
